@@ -1,1 +1,54 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
 node_modules
+
+# Cache files
+.cache
+
+# Public files
+public
+
+# Build output
+.next
+.nuxt
+dist
+build
+
+# Static files
+static
+
+# Config files
+.env*
+.env.*
+
+# Firebase files
+firebase-debug.log
+
+# Chakra UI files
+.chakrarc
+
+# TypeScript files
+*.d.ts
+*.js.map
+
+# IDEs and editors
+.idea
+*.iml
+*.swp
+*.swo
+.DS_Store
+
+# Generated files
+.DS_Store
+
+# System files
+.DS_Store
+Thumbs.db
+.vscode
+
+# npm cache files
+.npm-_system_map
