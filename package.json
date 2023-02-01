@@ -1,0 +1,46 @@
+{
+  "name": "reddit-clone",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.17",
+    "@chakra-ui/react": "^2.4.9",
+    "@chakra-ui/theme": "^2.2.5",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@fontsource/open-sans": "^4.5.14",
+    "@next/font": "13.1.6",
+    "@next/swc-darwin-arm64": "^13.1.6",
+    "@types/node": "18.11.18",
+    "@types/react": "18.0.27",
+    "@types/react-dom": "18.0.10",
+    "eslint-config-airbnb-typescript": "^17.0.0",
+    "eslint-config-next": "13.1.6",
+    "eslint-config-prettier": "^8.6.0",
+    "firebase": "^9.16.0",
+    "framer-motion": "^8.5.4",
+    "next": "13.1.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-firebase-hooks": "^5.1.1",
+    "react-icons": "^4.7.1",
+    "recoil": "^0.7.6",
+    "typescript": "4.9.4"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.49.0",
+    "@typescript-eslint/parser": "^5.49.0",
+    "eslint": "^8.33.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-react": "^7.32.1",
+    "eslint-plugin-react-hooks": "^4.6.0"
+  }
+}
